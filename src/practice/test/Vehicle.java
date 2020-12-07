@@ -4,13 +4,7 @@ public class Vehicle {
 
 	
 	
-	{
-		
-		
-		
-		
-		
-	}
+	main;
 	
 	
 	
