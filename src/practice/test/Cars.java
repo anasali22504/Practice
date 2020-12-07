@@ -1,14 +1,11 @@
 package practice.test;     
 
- protected class Cars {
+ class Cars {
 
 	   static String brand = "Mercedes";   // instance variable
 	   static String model = "C-220";
 
-	  
-	   private 
-	   
-	   
+
 	  
 	   
 	   
